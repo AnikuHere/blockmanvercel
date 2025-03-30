@@ -1,0 +1,106 @@
+[
+    {
+        "gameId": "g1001",
+        "gameTitle": "Survival Games",
+        "gameCoverPic": "/static/games-images/survival_games_cover.png",
+        "visitorEnter":  7,
+        "praiseNumber": 34,
+        "gameTypes": ["Action", "PvP"]
+    },
+    {
+        "gameId": "g1002",
+        "gameTitle": "Skywars",
+        "gameCoverPic": "/static/games-images/skywar_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["Action", "PvP"]
+    },
+    {
+        "gameId": "g1003",
+        "gameTitle": "Bed Wars",
+        "gameCoverPic": "https://cdn.discordapp.com/emojis/1294625024795480157.png?v=1",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACTION", "PvP"]
+    },
+    {
+        "gameId": "g1004",
+        "gameTitle": "Jail Break",
+        "gameCoverPic": "/static/games-images/jailbreak_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["RP", "ACT"]
+    },
+    {
+        "gameId": "g1005",
+        "gameTitle": "Build Battle",
+        "gameCoverPic": "/static/games-images/build_battle_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ADV"]
+    },
+    {
+        "gameId": "g1006",
+        "gameTitle": "Lucky Block Skywars",
+        "gameCoverPic": "/static/games-images/lucky_skywar_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1007",
+        "gameTitle": "Sky Royale",
+        "gameCoverPic": "/static/games-images/sky_royale_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1008",
+        "gameTitle": "Mini Town",
+        "gameCoverPic": "/static/games-images/minitown_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["RPG", "SIM"]
+    },
+    {
+        "gameId": "g1009",
+        "gameTitle": "Egg Wars",
+        "gameCoverPic": "/static/games-images/eggwar_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["PVP"]
+    },
+    {
+        "gameId": "g1010",
+        "gameTitle": "Snowball Battle",
+        "gameCoverPic": "/static/games-images/snowball_battle_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1011",
+        "gameTitle": "Zombie Infecting",
+        "gameCoverPic": "/static/games-images/zombie_infecting_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["ACT", "ADV"]
+    },
+    {
+        "gameId": "g1012",
+        "gameTitle": "Bird Simulator",
+        "gameCoverPic": "/static/games-images/bird_simulator_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["SIM"]
+    },
+    {
+        "gameId": "g1012",
+        "gameTitle": "Maszx GAMES",
+        "gameCoverPic": "/static/games-images/bird_simulator_cover.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["Adventure"]
+    }
+      ]

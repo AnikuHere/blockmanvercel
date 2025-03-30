@@ -1,0 +1,795 @@
+{
+  "code": 1,
+  "message": "OK",
+  "data": {
+    "isShowThirdPart": true,
+    "isOpenUpdateSO": true,
+    "isOpenMorePay": true,
+    "isShowShare": true,
+    "isShowCampaign": true,
+    "isShowChest": true,
+    "isShowHallowmasChest": true,
+    "isShowActivity": true,
+    "activityVersionCode": 0,
+    "isShowUniversalActivity": true,
+    "universalActivityVersionCode": 892.0,
+    "isShowPartyInvite": true,
+    "isShowFriendMatch": true,
+    "isShowDressRecommend": true,
+    "dailyShareVersionCode": 999.0,
+    "activityUrl": "https://www.blockmango.net/lucky_draw.html",
+    "gratitudeUrl": "",
+    "newGratitudeUrl": "https://www.blockmango.net/gratitude.html",
+    "isNeedSystemAnnouncement": true,
+    "isNeedStopServiceAnnouncement": false,
+    "isSilentDownload": false,
+    "isShowGameGuide": false,
+    "isOpenVideoSubmitActivity": false,
+    "videoSubmitActivityCode": 9999.0,
+    "isShowMainGuide": false,
+    "adsConfig": {
+      "mainAdsCD": 300.0,
+      "mainAdsGray": 0.0,
+      "gameDetailAdsCD": 1800.0,
+      "gameDetailAdsGray": 0.0,
+      "midwayAdGray": 0.0,
+      "finalAdGray": 0.0,
+      "hallAdGray": 0.0,
+      "enterDetailGray": 0.0,
+      "clickTabGray": 0.0
+    },
+    "specialAdsConfig": {
+      "mainAdsCD": 300.0,
+      "mainAdsGray": 0.0,
+      "gameDetailAdsCD": 7200.0,
+      "gameDetailAdsGray": 0.0,
+      "midwayAdGray": 0.0,
+      "finalAdGray": 0.0,
+      "hallAdGray": 0.0,
+      "enterDetailGray": 0.0,
+      "clickTabGray": 0.0
+    },
+    "isOpenMTP": true,
+    "WhitelistLink": [
+      "https://www.blockmango.net/",
+      "https://www.blockmango.cn/",
+      "https://depz1z6xv9td2.cloudfront.net/",
+      "http://192.168.2.13:9918/",
+      "http://static.blockmango.cn/",
+      "http://depz1z6xv9td2.cloudfront.net/",
+      "https://static.blockmango.cn/"
+    ],
+    "downloadConfig": {
+      "reconnectCount": 4.0,
+      "rateMultiple": 3.0,
+      "slowPeriod": 2.147483647E9,
+      "startCountingTime": 1000.0
+    },
+    "downloadGames": [
+      "g1046"
+    ],
+    "reportInterval": 60.0,
+    "pingReportInterval": 60.0,
+    "weekDressRecommend": [
+      {
+        "picUrl": "http://static.sandboxol.com/sandbox/dresses/iconsundefined-1588560329380.png",
+        "appVersion": 869.0,
+        "suitId": 66.0,
+        "sex": 1.0
+      },
+      {
+        "picUrl": "http://static.sandboxol.com/sandbox/dresses/iconsundefined-1588560575809.png",
+        "appVersion": 869.0,
+        "suitId": 68.0,
+        "sex": 2.0
+      }
+    ],
+    "tribeIntroduction": [
+      {
+        "image": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_default.png",
+        "image_zh": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_default.png",
+        "title": "Get free avatars",
+        "title_zh": "获取免费装扮"
+      },
+      {
+        "image": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_one.png",
+        "image_zh": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_one.png",
+        "title": "Find friends who share the same interest",
+        "title_zh": "寻找志同道合的朋友"
+      },
+      {
+        "image": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_two.png",
+        "image_zh": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_two_zh.png",
+        "title": "Talk with your friends at any time",
+        "title_zh": "随时与您的朋友交谈"
+      },
+      {
+        "image": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_three.png",
+        "image_zh": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_three.png",
+        "title": "Fight for the honor of the clan",
+        "title_zh": "为部落而战"
+      },
+      {
+        "image": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_four.png",
+        "image_zh": "http://static.sandboxol.com/sandbox/activity/banner/bg_banner_tribe_four.png",
+        "title": "More games such as clan war will come soon",
+        "title_zh": "部落战争游戏即将推出"
+      }
+    ],
+    "videoBanner": [
+      {
+        "id": 1.0,
+        "image": "https://sandboxol-region.s3.amazonaws.com/sandbox/activity/banner/1029-1.jpg",
+        "url": "https://youtu.be/E-Z_yQm78XQ",
+        "isInside": true,
+        "isTest": false,
+        "videoId": 8.0,
+        "titles": {
+          "en_US": "happy belated anniversary blockman go",
+          "zh_CN": "happy belated anniversary blockman go"
+        },
+        "version": 880.0,
+        "isFullScreen": false
+      },
+      {
+        "id": 2.0,
+        "image": "https://sandboxol-region.s3.amazonaws.com/sandbox/activity/banner/amz1046banner.jpg",
+        "url": "https://youtu.be/KLUdfvEMoi0",
+        "isInside": true,
+        "isTest": false,
+        "videoId": 8.0,
+        "titles": {
+          "en_US": " New Golden Sword is Strongest in Bedwars Blockman Go",
+          "zh_CN": " New Golden Sword is Strongest in Bedwars Blockman Go"
+        },
+        "version": 880.0,
+        "isFullScreen": false
+      }
+    ],
+    "gameDetailToEditor": {
+      "g2019": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2015": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2013": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2006": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2008": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2005": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2017": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2014": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2016": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2010": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2002": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2000931": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2000523": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20002989": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001154": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001153": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001152": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001151": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001150": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000317": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20010744": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001842": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001777": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000791": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000500": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000200": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2018": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20001143": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000367": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2024": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2022": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2021": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2012": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2011": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2009": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2007": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2004": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2003": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20021840": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20021301": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20017812": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20016448": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2001": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g20000031": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1058": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1054": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1057": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1053": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1051": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1047": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1041": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1037": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1036": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1032": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1031": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1030": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1029": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1028": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1027": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1026": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1025": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1024": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1023": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1022": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1021": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1020": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1019": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1017": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1016": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1015": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1014": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1013": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1011": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1010": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1009": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1007": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1002": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1001": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2030": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1018": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1042": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1055": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2020": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2035": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g2033": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1048": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1008": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ],
+      "g1046": [
+        "http://static.sandboxol.com/sandbox/editor/6.png",
+        "http://static.sandboxol.com/sandbox/editor/7.png",
+        "http://static.sandboxol.com/sandbox/editor/8.png",
+        "http://static.sandboxol.com/sandbox/editor/9.png",
+        "http://static.sandboxol.com/sandbox/editor/10.png"
+      ]
+    },
+    "tempMTPBlackList": [],
+    "isShowFriendFollow": true,
+    "friendRefreshTimes": 10.0,
+    "v2CommonGameList": [
+      "g2001",
+      "g2002",
+      "g2003",
+      "g2004",
+      "g2005",
+      "g2006",
+      "g2007",
+      "g2008",
+      "g2009",
+      "g2010",
+      "g2011",
+      "g2012",
+      "g2013",
+      "g2014",
+      "g2015",
+      "g2016",
+      "g2017",
+      "g2018",
+      "g2019",
+      "g2022",
+      "g2024",
+      "g20000031"
+    ]
+  }
+      }

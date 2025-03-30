@@ -1,0 +1,66 @@
+{
+  
+    "activityDesc": "Activity",
+    "activityEndTime": "2025-06-29",
+    "remainingTime": 10000000000000,
+    "gold": {
+        "drawRewardCount": 0,
+        "frequency": 10,
+        "luckyValueUpperLimit": 1000,
+        "singleQuantity": 100,
+        "multiQuantity": 450,
+        "oneIncreaseValue": 0,
+        "rewardInfoList": [
+            {"pic":"http://192.168.1.35:3888/gold_block.png","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":1,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":2,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":3,"rewardName":"","rewardType":""},
+
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":4,"rewardName":"1","rewardType":"diamond"},
+            {"pic":"","rewardId":5,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":6,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/VIP.png","rewardId":7,"rewardName":"","rewardType":""},
+            
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/MVP.png","rewardId":8,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":9,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":10,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":11,"rewardName":"","rewardType":""},
+    
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":12,"rewardName":"3","rewardType":"diamond"},
+            {"pic":"","rewardId":13,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":14,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":15,"rewardName":"50","rewardType":"diamond"}
+          
+    },
+    "diamond": {
+        "drawRewardCount": 0,
+        "frequency": 10,
+        "luckyValueUpperLimit": 400,
+        "singleQuantity": 10,
+        "multiQuantity": 45,
+        "oneIncreaseValue": 0,
+        "rewardInfoList": [
+            {"pic":"http://192.168.1.35:3888/colorful_block.png","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":0,"rewardName":"100","rewardType":"diamond"},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""}
+            
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/VIPplus.png","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":0,"rewardName":"10","rewardType":"diamond"},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/VIP.png","rewardId":0,"rewardName":"","rewardType":""},
+    
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png","rewardId":0,"rewardName":"20","rewardType":"diamond"},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"","rewardId":0,"rewardName":"","rewardType":""},
+            {"pic":"http://static.sandboxol.com/sandbox/activity/treasurebox/MVP.png","rewardId":0,"rewardName":"","rewardType":""}
+ 
+      ]
+    }
+            }
+          

@@ -1,0 +1,112 @@
+[
+    {
+      "id": 200,
+      "typeId": 4,
+      "camera": "whole",
+      "name": "Face 1",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1294627007451238410.png?v=1",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_face.5",
+      "details": "Face 1",
+      "price": 50,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    },
+    {
+      "id": 201,
+      "typeId": 4,
+      "camera": "whole",
+      "name": "Face 2",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1294627148476190761.png?v=1",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_face.6",
+      "details": "Face 2",
+      "price": 50,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    },
+    {
+      "id": 1214,
+      "typeId": 14,
+      "camera": "top",
+      "name": "crying face",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsiconscustom_face.1553168789979.29",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_face.29",
+      "details": "crying face",
+      "price": 50,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    },
+    {
+      "id": 247,
+      "typeId": 4,
+      "camera": "head",
+      "name": "World Cup Mascot face",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconscustom_face.18.custom_face.1528202330362.18",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_face.18",
+      "details": "World Cup Mascot Emoticons face",
+      "price": 3000,
+      "currency": 2,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    },
+    {
+      "id": 358,
+      "typeId": 4,
+      "camera": "head",
+      "name": "star eye face",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsiconscustom_face.1553169164080.27",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_face.27",
+      "details": "star eye face",
+      "price": 99,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 0
+    }
+]

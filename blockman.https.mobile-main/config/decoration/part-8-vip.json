@@ -1,0 +1,173 @@
+[
+    {
+      "id": 161,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "White Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons255-222-183-71-1671001795461.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "255-222-183-71",
+      "details": "White Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 1,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 162,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Dark Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons52-20-3-114-1671001776419.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "52-20-3-114",
+      "details": "Dark Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 1,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 151,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Cyan Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons0-163-232-140-1671001995168.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "0-163-232-140",
+      "details": "Cyan Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 152,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Red Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons193-0-0-140-1671001927789.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "193-0-0-140",
+      "details": "Red Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 153,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Purple Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons123-0-170-140-1671001911487.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "123-0-170-140",
+      "details": "Purple Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 154,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Dark Purple Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons4-0-170-140-1671001892534.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "4-0-170-140",
+      "details": "Dark Purple Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 155,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Green Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons10-184-70-140-1671001874968.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "10-184-70-140",
+      "details": "Green Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 156,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Yellow Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons156-169-1-140-1671001857133.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "156-169-1-140",
+      "details": "Yellow Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 157,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Light Yellow Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons189-156-0-89-1671001832127.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "189-156-0-89",
+      "details": "Light Yellow Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 3,
+      "occupyPosition": [
+        12
+      ]
+    }
+]

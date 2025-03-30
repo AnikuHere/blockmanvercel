@@ -1,0 +1,3 @@
+{
+ "databaseType": "mongodb+srv://Mykolnikov:<db_password>@blockmanvestaex.kjfpj.mongodb.net/?retryWrites=true&w=majority&appName=BlockmanVestaex"
+}

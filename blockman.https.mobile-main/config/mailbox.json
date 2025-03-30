@@ -1,0 +1,21 @@
+[
+    {
+      "id": "10",
+      "title": "Welcome to the block world :)",
+      "content": "Welcome to the block world. We, the developers of BlockmanClassic from LetriumTeam, will guide you!",
+      "sendDate": 1724081215167,
+      "status": 1,
+      "type": 1,
+      "attachment": [
+        {
+          "status": 1,
+          "type": 1,
+          "name": "Blue Rubik's Cube",
+          "itemId": 2,
+          "qty": 999999999,
+          "icon": "http://staticgs.sandboxol.com/sandbox/images/banner/cube.png"
+        }
+      ],
+      "extra": null
+    }
+]

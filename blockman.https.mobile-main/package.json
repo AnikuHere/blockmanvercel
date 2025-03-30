@@ -1,0 +1,15 @@
+{
+  "name": "content-deliver-network",
+  "version": "1.0.0",
+  "description": "BlockmanClassic",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Letrium",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.2",
+    "mongoose": "^8.8.4",
+    "fs": "^0.0.1-security"
+  }
+}

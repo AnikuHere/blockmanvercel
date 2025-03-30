@@ -1,0 +1,59 @@
+[
+    {
+      "id": 158,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Dark Brown Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons30-12-0-140.5.1559034949799.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "30-12-0-140",
+      "details": "Dark Brown Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 159,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Light Brown Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons144-69-3-165.3.1559035095510.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "144-69-3-165",
+      "details": "Light Brown Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ]
+    },
+    {
+      "id": 160,
+      "typeId": 6,
+      "camera": "whole",
+      "name": "Light White Color",
+      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/icons226-135-52-71.2.1559035577799.png",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "226-135-52-71",
+      "details": "Light White Color",
+      "expie": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ]
+    }
+]

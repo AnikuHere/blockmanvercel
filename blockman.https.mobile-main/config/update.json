@@ -1,0 +1,96 @@
+{
+"code": 1,
+  "message": "OK",
+  "data": {
+    "versionCode": 4871.0,
+    "apkUrl": "http://static.sandboxol.com/sandbox/apk/MTP-app-blockymods-v2.24.1-armeabi-v7a-4411-engine1-10090-engine2-20074-engine3-30038-google.apk",
+    "picUrl": "",
+    "updateInfo": "What\u0027s new in 2.70.1\n1.New event launched: Smash the Golden Egg.\n2.Optimized game entry speed.",
+    "langMap": {
+      "en_US": {
+        "normal": "What\u0027s new in 2.70.1\n1.New event launched: Smash the Golden Egg.\n2.Optimized game entry speed.",
+        "forcible": "What\u0027s new in 2.70.1\n1.New event launched: Smash the Golden Egg.\n2.Optimized game entry speed."
+      },
+      "fr_FR": {
+        "normal": "Quoi de neuf dans 2.70.1\n1.Nouvel événement en ligne : Cassez l\u0027Œuf d\u0027Or.\n2.Optimisation de la vitesse d\u0027entrée dans le jeu.",
+        "forcible": "Quoi de neuf dans 2.70.1\n1.Nouvel événement en ligne : Cassez l\u0027Œuf d\u0027Or.\n2.Optimisation de la vitesse d\u0027entrée dans le jeu."
+      },
+      "ko_KR": {
+        "normal": "2.70.1의 새로운 기능\n1.새 이벤트 출시: 황금 달걀 깨기.\n2.게임 진입 속도 최적화.",
+        "forcible": "2.70.1의 새로운 기능\n1.새 이벤트 출시: 황금 달걀 깨기.\n2.게임 진입 속도 최적화."
+      },
+      "ja_JP": {
+        "normal": "2.70.1の新機能\n1.新しいイベントが登場：ゴールデンエッグを割ろう。\n2.ゲームの起動速度を最適化。",
+        "forcible": "2.70.1の新機能\n1.新しいイベントが登場：ゴールデンエッグを割ろう。\n2.ゲームの起動速度を最適化。"
+      },
+      "de_DE": {
+        "normal": "Was ist neu in 2.70.1\n1.Neues Event gestartet: Zerschmettere das Goldene Ei.\n2.Optimiert die Eingangsgeschwindigkeit des Spiels.",
+        "forcible": "Was ist neu in 2.70.1\n1.Neues Event gestartet: Zerschmettere das Goldene Ei.\n2.Optimiert die Eingangsgeschwindigkeit des Spiels."
+      },
+      "it_IT": {
+        "normal": "Beta Test.",
+        "forcible": "Beta Test."
+      },
+      "pl_PL": {
+        "normal": "Co nowego w 2.70.1\n1.Nowe wydarzenie online: Rozbij Złote Jajo.\n2.Zoptymalizowano prędkość wejścia do gry.",
+        "forcible": "Co nowego w 2.70.1\n1.Nowe wydarzenie online: Rozbij Złote Jajo.\n2.Zoptymalizowano prędkość wejścia do gry."
+      },
+      "pt_BR": {
+        "normal": "O que há de novo em 2.70.1\n1.Novo evento lançado: Smash the Golden Egg.\n2.Velocidade de entrada do jogo otimizada.",
+        "forcible": "O que há de novo em 2.70.1\n1.Novo evento lançado: Smash the Golden Egg.\n2.Velocidade de entrada do jogo otimizada."
+      },
+      "pt_PT": {
+        "normal": "O que há de novo em 2.70.1\n1.Novo evento lançado: Smash the Golden Egg.\n2.Velocidade de entrada do jogo otimizada.",
+        "forcible": "O que há de novo em 2.70.1\n1.Novo evento lançado: Smash the Golden Egg.\n2.Velocidade de entrada do jogo otimizada."
+      },
+      "th_TH": {
+        "normal": "มีอะไรใหม่ใน ",
+        "forcible": "มีอะไรใหม่ใน "
+      },
+      "ru_RU": {
+        "normal": "Что нового .",
+        "forcible": "Что нового ."
+      },
+      "hi_IN": {
+        "normal": "updt,"
+        "forcible": "update"
+      },
+      "tr_TR": {
+        "normal": "UPDATE",
+        "forcible": "turkey is a delecious food! Anyways, you need to update."
+      },
+      "es_ES": {
+        "normal": "Update.",
+        "forcible": "update"
+      },
+      "in_ID": {
+        "normal": "update",
+        "forcible": "update"
+      },
+      "vi_VN": {
+        "normal": "update",
+        "forcible": "update"
+      },
+      "zh_CN": {
+        "normal": "update message CN",
+        "forcible": "update"
+      },
+      "zh_TW": {
+        "normal": "update",
+        "forcible": "update"
+      }
+    },
+    "forceUpdate": true,
+    "newVersionCode": 300000,
+    "smallerThanVersion": 7.0,
+    "forceUpdateMinVersionCode": 1.0,
+    "forceUpdateMaxVersionCode": 1.0,
+    "domainSwitchThresholdVersion": 1,
+    "checkOpenGLVersion2": 3999.0,
+    "needTobeForceUpdateVersions": [
+      "999999.6.3"
+    ],
+    "status": 1.0,
+    "url": "https://play.google.com/store/apps/details?id\u003dcom.sandboxol.blockymods"
+  }
+}

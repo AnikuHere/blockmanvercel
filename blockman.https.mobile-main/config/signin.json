@@ -1,0 +1,37 @@
+{
+    "first": {
+      "type": "gold",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+      "quantity": 100
+    },
+    "second": {
+      "type": "gold",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+      "quantity": 150
+    },
+    "third": {
+      "type": "diamond",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/cube.png",
+      "quantity": 3
+    },
+    "fourth": {
+      "type": "gold",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+      "quantity": 100
+    },
+    "fifth": {
+      "type": "gold",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+      "quantity": 150
+    },
+    "sixth": {
+      "type": "gold",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+      "quantity": 200
+    },
+    "seventh": {
+      "type": "diamond",
+      "url": "http://static.sandboxol.com/sandbox/images/banner/cube.png",
+      "quantity": 7
+    }
+}
