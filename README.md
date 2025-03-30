@@ -8,4 +8,4 @@ BlockmanVercel is a compiled version of BlockmanGO that allows you to make your 
 
 
 
-Made byb Kolnikov and DeniusG/Aniku
+Made by Kolnikov and DeniusG/Aniku
