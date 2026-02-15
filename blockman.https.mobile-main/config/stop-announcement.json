@@ -1,7 +1,7 @@
 {
  "id": "17",
- "content": "Letrium has issued a maintenance for the games improvement. Please wait patiently for the reopening! Thank you! -LetriumTeam :)",
- "title": "Maintenance",
+ "content": "This is a placeholder announcment for temporary or permanent shutdowns. Can be edited in the -stop-announcment.json- in CONFIG folder",
+ "title": "Maintenance Placeholder",
  "isShow": "false",
  "isShowInGame": "false"
 }
