@@ -17,9 +17,12 @@ You can address any issues on Discord at the user deniusthepillowhead or mykolni
 
 4 - We are not responsible for any damage caused whatsoever by a fork of BlockmanVercel.
 
-# 5 IMPORTANT:
+# 5 - IMPORTANT:
  BlockmanVercel doesnt provide the engine for the minigames, nor the client to launch them. This project is designed to only display, store, delete, and create information. I'll maybe make repositories for the client and the engine and link it here, but for now, look for other sources. I highly recommend using the "Xreped Core Engine", or follow the IIKJ tutorial. Both can be found in the Discord server of IIKJ (https://discord.com/invite/wjFAuU5TQz)
 
+# Worth checking out:
+
+ You should check out the "CompileSetup.md" file aswell, based on Lapyhs/IIKJ's tutorial.
 
 ------------
 
