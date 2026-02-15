@@ -1,6 +1,10 @@
 {
   "32": {
-    "userId": "66601",
-    "password": "Account database is located in -account.json- in -account- folder"
+    "userId": "Account database is located in -account.json- in -account- folder, there is supposed to be a number here",
+    "password": "password"
+  }
+  "33": {
+    "userId": "1111",
+    "password": "password"
   }
 }
