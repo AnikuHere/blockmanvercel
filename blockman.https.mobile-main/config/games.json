@@ -31,6 +31,14 @@
         "praiseNumber": 0,
         "gameTypes": ["RP", "ACT"]
     },
+     {
+        "gameId": "g1999",
+        "gameTitle": "Test",
+        "gameCoverPic": "https://cdn.discordapp.com/emojis/1294625024795480157.png?v=1",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["PLaceholder!", "Can be edited in the -games.json- file in the CONFIG folder"]
+    },
     {
         "gameId": "g1005",
         "gameTitle": "Build Battle",
