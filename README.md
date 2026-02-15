@@ -1,11 +1,11 @@
 # BlockmanVercel: Create your block world today.
-BlockmanVercel is a compiled version of BlockmanGO that allows you to make your own private BG server using Vercel.
+BlockmanVercel is a compiled version of the BlockmanGO server infastructure (API, ect.) that allows you to make your own private BG server using Vercel.
 
 # How to get it running
  For now, the documentation is only avalible inside the source code. It is recommended to import the files into a hosting service like NETLIFY or VERCEL. 
  
 # Support
-You can address any issues on Discord at the user deniusthepillowhead or mykolnikov_01. The support server is https://discord.com/invite/wjFAuU5TQz. Ping me and illl respond.
+You can address any issues on Discord at the user deniusthepillowhead or mykolnikov_01. The support server is https://discord.com/invite/wjFAuU5TQz. Ping me in the NO18+ chat and ill respond (maybe ?)
 
 # Some things to note:
 
@@ -16,6 +16,9 @@ You can address any issues on Discord at the user deniusthepillowhead or mykolni
 3 - Software is PROVIDED AS IS. No warranty of any sorts affects this software.
 
 4 - We are not responsible for any damage caused whatsoever by a fork of BlockmanVercel.
+
+# 5 IMPORTANT:
+ BlockmanVercel doesnt provide the engine for the minigames, nor the client to launch them. This project is designed to only display, store, delete, and create information. I'll maybe make repositories for the client and the engine and link it here, but for now, look for other sources. I highly recommend using the "Xreped Core Engine", or follow the IIKJ tutorial. Both can be found in the Discord server of IIKJ (https://discord.com/invite/wjFAuU5TQz)
 
 
 ------------
